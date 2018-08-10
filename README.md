@@ -12,7 +12,7 @@ A client library to connect to Garlicoin Core RPC in JavaScript.
 garlicoind-rpc.js runs on [node](http://nodejs.org/), and can be installed via [npm](https://npmjs.org/):
 
 ```bash
-npm install bitcoind-rpc
+npm install garlicoind-rpc
 ```
 
 ## Examples
